@@ -9,12 +9,17 @@
     <name>mall</name>
     <description>商城项目</description>
 
+    <packaging>pom</packaging>
+
     <modules>
         <module>mall-commodity</module>
         <module>mall-coupon</module>
         <module>mall-orders</module>
         <module>mall-storehouse</module>
         <module>mall-user</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>mall-common</module>
     </modules>
 
 </project>
